@@ -1,4 +1,7 @@
 
 ### Hi I am Amal 💻 👋
 
-I'm a Full stack developer and adventurous. who is passionate about making websites that look great. Some technologies I enjoy working with include JavaScript, python, HTML and CSS.
+
+!<img src="https://www.canva.com/design/DAEX1qEhl8E/share/preview?token=P-d4TZ_UURMykxmdXMb8mA&role=EDITOR&utm_content=DAEX1qEhl8E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+
+
